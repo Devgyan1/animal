@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    color:blueviolet;
+    background-color:lightpink;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:rgb(166, 255, 0);
+    color:rgb(255, 102, 0);
+    text-shadow:5px 5px 6px rgb(0, 0, 0);
+    line-height: 3;
+    font-size:13px;
+}
